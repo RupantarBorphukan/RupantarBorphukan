@@ -1,5 +1,5 @@
 ### Hi there, 👋 Rupantar this side
-[![Website](https://img.shields.io/badge/PORTFOLIO-Rupantar-lightgreen)](https://rupantar-borphukan.github.io/)  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Rupantar-Borphukan.visitor-badge)
+[![Website](https://img.shields.io/badge/PORTFOLIO-Rupantar-lightgreen)](https://BupantarBorphukan.github.io/)  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=RupantarBorphukan.visitor-badge)
 
 **I am Freshman and a  Web Developer, Blockchain enthusiast, Competitive Programmer**  ✨ 
 
@@ -54,17 +54,17 @@
 
 ## 📊 Github Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rupantar-Borphukan&show_icons=true&theme=blue-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RupantarBorphukan&show_icons=true&theme=blue-green)
 
 
-<p align="left"> <img src="http://github-readme-streak-stats.herokuapp.com/?user=Rupantar-Borphukan&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="Rupantar-Borphukan" /></p>
+<p align="left"> <img src="http://github-readme-streak-stats.herokuapp.com/?user=RupantarBorphukan&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="RupantarBorphukan" /></p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupantar-Borphukan&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <br/>
 
 ## 📚 Skills 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupantar-Borphukan&langs_count=12&count_private=true&layout=compact&show_icons=true&theme=blue-green)](https://github.com/Rupantar-Borphukan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RupantarBorphukan&langs_count=12&count_private=true&layout=compact&show_icons=true&theme=blue-green)](https://github.com/RupantarBorphukan)
 <br>
 <br>
 
